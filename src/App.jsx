@@ -30,7 +30,7 @@ function App() {
         </div>
 
         <a
-          href="mailto:info@elitedigitalcards.com"
+          href="mailto:info@eliteassociate.in"
           className="inline-flex items-center gap-2 bg-yellow-400 hover:bg-yellow-500 text-black font-semibold px-6 py-3 rounded-full transition-all shadow-lg"
         >
           <Mail className="w-5 h-5" />
